@@ -1,0 +1,1 @@
+Practice Tasks of Computer Vision and Pattern Recognition course.
